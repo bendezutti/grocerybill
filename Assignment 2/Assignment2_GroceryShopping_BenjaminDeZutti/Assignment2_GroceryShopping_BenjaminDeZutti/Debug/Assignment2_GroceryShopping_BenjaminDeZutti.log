@@ -1,0 +1,5 @@
+﻿  Assignment2_GroceryShopping_BenjaminDeZutti.cpp
+C:\Users\benja\Desktop\School\CompSci 205\Chapter4\Assignment 2\Assignment2_GroceryShopping_BenjaminDeZutti\Assignment2_GroceryShopping_BenjaminDeZutti\Assignment2_GroceryShopping_BenjaminDeZutti.cpp(75,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\benja\Desktop\School\CompSci 205\Chapter4\Assignment 2\Assignment2_GroceryShopping_BenjaminDeZutti\Assignment2_GroceryShopping_BenjaminDeZutti\Assignment2_GroceryShopping_BenjaminDeZutti.cpp(78,12): warning C4552: '+': result of expression not used
+C:\Users\benja\Desktop\School\CompSci 205\Chapter4\Assignment 2\Assignment2_GroceryShopping_BenjaminDeZutti\Assignment2_GroceryShopping_BenjaminDeZutti\Assignment2_GroceryShopping_BenjaminDeZutti.cpp(80,12): warning C4552: '+': result of expression not used
+  Assignment2_GroceryShopping_BenjaminDeZutti.vcxproj -> C:\Users\benja\Desktop\School\CompSci 205\Chapter4\Assignment 2\Assignment2_GroceryShopping_BenjaminDeZutti\Debug\Assignment2_GroceryShopping_BenjaminDeZutti.exe
